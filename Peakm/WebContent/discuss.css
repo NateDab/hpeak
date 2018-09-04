@@ -1,0 +1,44 @@
+.title_art, .dcreator, .b{
+  font-weight:bold
+}
+
+.dnbpart{
+  text-align: right;
+}
+
+.message{
+  margin-top:14px;
+  border-bottom:1px solid #ebebeb;
+  padding-bottom:5px;
+}
+.messageAut{
+  width:65px;
+  height:65px;
+  border-radius:50%;
+}
+.bmessageAut{
+  text-align:center;
+}
+.time{
+  color:grey;
+}
+
+.reponse{
+  
+  text-align:right;
+}
+
+.envoyer{
+  border-radius:20px;
+}
+
+
+.formRep{
+  padding-left:10px;
+  margin-top:8px;
+  padding-right:10px;
+}
+
+.message p{
+  font-family:Segoe UI;
+}

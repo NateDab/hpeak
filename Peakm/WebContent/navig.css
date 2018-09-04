@@ -1,0 +1,26 @@
+.navbar{
+  border-bottom:1px solid #e5e5e5;
+  background-color: white;
+  z-index: 1;
+}
+.navbar-brand{
+  font-size:24px;
+  font-weight:bold;
+  color:black;
+  
+}
+
+.navbar-form a{
+  font-weight:bold;
+  color:#3098e7;
+}
+
+.navbar-form a:hover{
+  text-decoration:none;
+  cursor:pointer;
+
+}
+
+.navbar-form{
+  margin-top:14px;
+}

@@ -1,0 +1,188 @@
+body{
+ background-color: #ebebeb;
+ font-family:Segoe UI;
+}
+
+.imgsrc{
+  height:60px;
+  width:60px;
+  border-radius: 8px;
+}
+
+#blocbase{
+  margin-top:75px;
+  //background-color:grey;
+}
+
+#fil{
+  border-radius:8px;
+  background-color:white;
+}
+.rowbase{
+  //background-color:pink;
+}
+
+.item{
+  border-bottom: 1px solid #ebebeb;
+  padding-bottom:0px;
+  padding-top:15px;
+}
+
+.colimg{
+  text-align:center;
+}
+
+.namesrc{
+  font-weight:bold;
+  font-size:17px;
+  padding-left:0px;
+}
+
+.share{
+  cursor:pointer
+}
+
+
+
+.nblike{
+  margin-left: 5px;
+}
+
+.infoitem{
+  padding:0px;
+  padding-bottom:5px;
+  padding-top:5px;
+}
+
+.contenu{
+  padding:0px;
+  display:block;
+  font-weight:bold;
+ 
+}
+
+
+.artcl{
+  border: 1px solid #d9dddd;
+  padding-top:7px;
+  margin-top:8px;
+  margin-left:1px;
+}
+
+.artcl:hover{
+  background-color:#f5f8fa;
+  cursor:pointer;
+}
+
+.artcl img{
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  padding-bottom:10px;
+}
+
+.source_art{
+  font-weight:normal;
+  color:grey;
+}
+
+.artcl p{
+  margin-left:7px;
+  margin-bottom:3px;
+}
+
+
+
+.illustration{
+  height:200px;
+}
+
+.notifs{
+  background-color:white;
+  border-radius:4px;
+}
+
+.notifs h1{
+  font-size:24px;
+  font-weight:bold;
+  font-family:Segoe UI, Arial;
+  color:black;
+  margin-left:10px;
+}
+
+.socimg{
+  height:25px;
+  width:25px;
+
+}
+
+.itemsoc{
+  border-bottom:1px solid #ebebeb;
+  padding-top:5px;
+  padding-right:5px;
+}
+
+.itemsoc:hover{
+  cursor:pointer;
+  background-color:#f5f8fa;
+}
+
+.blocimg{
+  //background-color:white;
+  padding-top:3px;
+}
+
+.infosoc{
+  font-size:0.8em;
+}
+
+.nbpart{
+  padding:0px;
+  font-weight:bold;
+}
+
+.createur p{
+  font-weight:italic;
+}
+
+.card-img-top {
+    width: 100%;
+    height: 15vw;
+    border-radius:5px 5px 0px 0px;;
+    object-fit: cover;
+}
+
+.card{
+  margin-top:12px;
+  border: 1px solid #d9dddd;
+  border-radius:5px;
+  width:95%;
+  margin-left:auto;
+  margin-right:auto;
+  
+  
+}
+
+.card:hover{
+  background-color:#ebeded;
+  border:1px solid #d2d2d2;
+  cursor:pointer;
+}
+
+
+.card-title{
+  font-weight:bold;
+}
+
+.card-text{
+  font-weight:normal;
+  color:grey;
+}
+
+.card-body{
+  margin-left:10px;
+}
+
+.discusscard{
+  width:78%;
+}
